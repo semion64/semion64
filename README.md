@@ -7,12 +7,12 @@
 
 C++, MySQL, .Net Framework C#, HTML, jQuery, Bootstrap.
 
+<!--
 Буду рад оказать посильную помощь в полезном OpenSource проекте.
 
 ### Контакты для связи:
 is-info64@ya.ru
 
-<!--
 **semion64/semion64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
